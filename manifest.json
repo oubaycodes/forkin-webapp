@@ -1,12 +1,12 @@
 {
-  "name": "sudo-flix",
-  "short_name": "sudo-flix",
+  "name": "oub-flix",
+  "short_name": "oub-flix",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#120f1d",
   "lang": "en",
   "scope": "/",
-  "description": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)",
+  "description": "Enjoy your time on my fork of movie-web.app",
   "theme_color": "#120f1d",
   "icons": [
     {
